@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Live Video Transcriber",
+    "version": "1.0",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
